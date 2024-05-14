@@ -1,5 +1,4 @@
 click==8.1.7
 colorama==0.4.6
 greenlet==3.0.3
-SQLAlchemy==2.0.30
 typing_extensions==4.11.0
